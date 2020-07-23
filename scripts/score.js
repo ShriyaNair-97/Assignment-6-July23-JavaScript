@@ -1,3 +1,4 @@
+'use strict'
 console.log('--------------------------------------------')
 console.log('The second question of the assignment')
 var heathAvg =  (89 + 120 + 103) / 3;

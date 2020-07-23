@@ -1,3 +1,4 @@
+'use strict'
 console.log('---------------------------------------------------------------')
 console.log('The first question of the assignment')
 var jeff=15
